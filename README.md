@@ -1,0 +1,5 @@
+![Full Academii logo in light colours](./Academii-Site-Logo-Light.png)
+![Full Academii logo in dark colours](./Academii-Site-Logo-Dark.png)
+![Academii icon logo in light colours](./Academii-Dots-Logo.png)
+![Academii icon dots](./Academii-Dots.png)
+![Academii icon sticks in dark colours](./Academii-Sticks.png)
